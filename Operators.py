@@ -9,27 +9,27 @@
 # 
 # Write a Python program that takes a number, adds 7, multiplies it by 3, divides by 2, and prints the result.
 
-# a= int(input("enter the number: "))
-# b= int (input("enter the number: "))
-# print ("addition is ", a+b) 
-# print ("subtraction is ", a-b)
-# print ("multiplication is", a*b)
-# print ("division is ", a/b)
+a= int(input("enter the number: "))
+b= int (input("enter the number: "))
+print ("addition is ", a+b) 
+print ("subtraction is ", a-b)
+print ("multiplication is", a*b)
+print ("division is ", a/b)
 
-# a= int(input("enter the number: "))
-# b= int (input("enter the number: "))
-# print ("remainder is " ,a%b)
-# print ("quotient is" , int(a/b))
+a= int(input("enter the number: "))
+b= int (input("enter the number: "))
+print ("remainder is " ,a%b)
+print ("quotient is" , int(a/b))
 
-# a= int(input("enter the number: "))
-# print ("Squere is " ,a**2)
-# print ("Cube is" , a**3)
+a= int(input("enter the number: "))
+print ("Squere is " ,a**2)
+print ("Cube is" , a**3)
 
-# x = 10
-# a=x+5
-# b=a*3
-# c=b-4
-# print("final result of x is ", c)
+x = 10
+a=x+5
+b=a*3
+c=b-4
+print("final result of x is ", c)
 
 a= int(input("enter the number: "))
 b=a+7

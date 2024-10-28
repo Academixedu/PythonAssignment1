@@ -3,7 +3,7 @@
 # Write a Python program that prints all even numbers between 1 and n, where n is provided by the user.
 # Write a Python program to print numbers from n to 1, where n is provided by the user.
 
-a= int(input("enter the number: "))
+a = int(input("enter the number: "))
 print(range(a))
 sum = 0
 for i in range(a+1):

@@ -44,7 +44,7 @@ number1 = input("enter the number: ")
 number2 = input("enter the number: ")
 number3 = input("enter the number: ")
 if number3>number2 and number1 :
-    print( number3, "is greater number")
+    print( number3, "is a greater number")
 elif number2>number1 :
     print( number2, "is greater number")
 else :

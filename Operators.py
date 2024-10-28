@@ -22,7 +22,7 @@ print ("remainder is " ,a%b)
 print ("quotient is" , int(a/b))
 
 a= int(input("enter the number: "))
-print ("Squere is " ,a**2)
+print ("Squere is " ,a**4)
 print ("Cube is" , a**3)
 
 x = 10

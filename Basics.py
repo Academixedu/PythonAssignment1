@@ -19,7 +19,7 @@ userInputNum=int(userInput)
 print (userInputNum)
 
 
-floatVar=20.5
+floatVar=20.6
 intVar=int(floatVar)
 print(floatVar)
 print(intVar)

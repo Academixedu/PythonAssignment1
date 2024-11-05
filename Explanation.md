@@ -85,3 +85,5 @@
 
 4. Write a Python program to print numbers from n to 1, where n is provided by the user.
    - A) > Remove This Text and Fill Your Explanation Here
+
+Sets variables name and age, prints them, updates age, and prints the updated age.
